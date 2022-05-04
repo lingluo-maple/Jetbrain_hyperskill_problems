@@ -4,6 +4,6 @@
 
 Only the last stage solution
 
-Most of them are writen by `Python` or `Kotlin`
+Most of them are writen by `Python`
 
 English is not my first language
